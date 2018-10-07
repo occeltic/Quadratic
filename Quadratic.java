@@ -15,4 +15,8 @@ public class Quadratic{
    public double discriminant(double a, double b, double c){
       return -b/(2*a);
    }
+   
+   public double quadY(double x, double a, double b, double c){
+      return a+b+c;
+   }
 }
