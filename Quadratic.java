@@ -13,6 +13,6 @@ public class Quadratic{
    }
    
    public double quadY(double x, double a, double b, double c){
-      return 1.0;
+      return a+b+c;
    }
 }
