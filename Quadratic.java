@@ -13,6 +13,6 @@ public class Quadratic{
    }
    
    public double discriminant(double a, double b, double c){
-      return -1.0;
+      return -b/(2*a);
    }
 }
